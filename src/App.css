@@ -8,7 +8,7 @@
     height: 100vh;
     position: absolute;
     z-index: -1;
-    background-color: white;
+    background-color: rgb(232, 232, 232);
     object-fit: cover;
     margin: 0;
     padding: 0;
