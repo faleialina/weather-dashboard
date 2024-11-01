@@ -1,0 +1,22 @@
+.text{
+    margin-bottom: 20px;
+}
+
+.weatherInput {
+    width: 300px;
+    box-sizing: border-box;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 22px;
+    margin-bottom: 30px;
+    background-color: transparent;
+}
+
+.weatherButton {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: transparent;
+}
